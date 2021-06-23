@@ -19,7 +19,7 @@ const App = () => {
           count >= 100 ? "" : setCount(count + Math.floor(Math.random() * 10))
         }
       >
-        Random Number
+        Random Number1
       </button>
     </div>
   );
