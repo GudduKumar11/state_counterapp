@@ -6,7 +6,7 @@ const App = () => {
 
   return (
     <div className="App">
-      <h1>Create Couter Appp with Hooks/state</h1>
+      <h1>Create Couter with stat and Hooks Appp with Hooks/state</h1>
       <h2>The value of the count is {count}</h2>
       <button onClick={() => (count >= 10 ? "" : setCount(count + 1))}>
         Increamet
